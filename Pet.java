@@ -1,0 +1,8 @@
+public class Pet {
+
+    String name;
+    int age;
+    String food;
+    String slobber;
+    String blanky;
+}
